@@ -1,4 +1,5 @@
 # Hello-World
+ This code sample is created related to codelab: [Android fundamentals 01.1: Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html?index=..%2F..android-training#12)
 
 # Copyright
     
